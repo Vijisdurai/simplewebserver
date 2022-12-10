@@ -52,7 +52,16 @@ httpd = HTTPServer (server_address, myhandler)
 print("my webserver is running...")
 httpd.serve_forever() 
 ```  
-## OUTPUT:
 
+## OUTPUT:
+### server side output
+
+![server side output](./images/serveroutput.png)
+
+### clint side output
+
+![clint side output](./images/clintoutput.png)
 
 ## RESULT:
+
+thus the webserver is developed to display about top five programming languages.
